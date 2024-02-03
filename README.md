@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Magnus
-- 👀 I’m interested in data analytics, economics, technology and innovation.
-- 🌱 I’m currently learning SQL, Tableau, python programming and ML. 
+- 👀 I’m interested in machine learning, analytics, technology and innovation.
+- 🌱 I’m currently learning NLP, Deep Learning and Predictive Analytics. 
 - :man_student: I’m studying for a masters degree in Business Administration and Data Science.
 
 <!--- 
